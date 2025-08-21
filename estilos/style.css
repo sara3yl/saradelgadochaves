@@ -1,0 +1,41 @@
+header{
+    background-color: rgb(3, 3, 3);
+    width: 150px;
+    padding: 20px;
+    font-family: serif;
+    text-decoration: none;
+    color: rgb(72, 255, 0);
+    position: fixed;
+    left: 0;
+    top: 0%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 13px;
+}
+
+nav a{
+    color: rgb(255, 127, 234);
+    padding: 10px;
+    text-decoration: none;
+    margin:10px;
+    margin-right: 10px;
+
+}
+
+body{
+    background-size: cover;
+    color: beige;
+    background-image: url(/imagenes/cielo\ 9.gif)
+}
+div{
+    margin-left: 230px;
+padding:20px;
+}
+.img{
+
+}
+
+
+
