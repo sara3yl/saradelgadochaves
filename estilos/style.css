@@ -21,6 +21,7 @@ nav a{
     text-decoration: none;
     margin:10px;
     margin-right: 10px;
+    display: block;
 
 }
 
@@ -38,7 +39,33 @@ img{
     height: auto;
     border-radius: 12px;
 }
+.img1{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin-bottom: 20px;
+    border: 2px;
+}
+.div1{
+    background-color: rgb(160, 37, 150);
+    display: block;
+}
+.div2{
+    background-color: rgb(80, 30, 69);
+}
+.div3{
+    background-color: rgb(46, 10, 31);
+}
+.div4{
+    background-color: rgb(19, 88, 179);
+}
+div{
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 12px;
 
-
+}
 
 
