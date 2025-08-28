@@ -33,9 +33,12 @@ div{
     margin-left: 230px;
 padding:20px;
 }
-.img{
-
+img{
+    width: 100px;
+    height: auto;
+    border-radius: 12px;
 }
+
 
 
 
